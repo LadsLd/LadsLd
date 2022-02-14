@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <h2> Olá eu sou o Johnata 👋</h2>
 
 
@@ -7,7 +7,7 @@
 </div>
 
 <!-- QUADROS DE USO -->
-<div align="left">
+<div align="center">
   <a href="https://github.com/LadsLd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadsLd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadsLd&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -23,7 +23,7 @@
   
   ##
 <!--  REDES SOCIAIS -->
- <div align ="left">
+ <div align ="center">
  <h3>Redes Sociais Profissionais</h3>
  <a href="https://www.linkedin.com/in/johnata-andrius-272156219/" target="_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = "35px" target="_blank"></a> 
  </div>
