@@ -8,7 +8,7 @@
 
 <h4> 🔭 Estudante TÉCNICO EM INFORMÁTICA</h4>
 <h4> 🌱 Estudando Linguagem de Programação Dart, Flutter, Java and JS</h4>
-<h4> 👩‍💻 Estudando Linguagens de marcação Html 5, Css 3</h4>
+<h4> 👩‍💻 Estudando Linguagens de marcação Html 5 and Css 3</h4>
 </div>
 
 <!-- QUADROS DE USO -->
