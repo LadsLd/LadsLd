@@ -9,8 +9,8 @@
 <!-- QUADROS DE USO -->
 <div align="center">
   <a href="https://github.com/LadsLd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LadsLd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadsLd&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LadsLd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadsLd&layout=compact&theme=tokyonight"/>
 </div>
 
 <!-- ICONS LINGUAGES   -->
@@ -33,3 +33,15 @@
   ![Snake animation](https://github.com/LadsLd/LadsLd/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+<div align="center">
+<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
+<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
+<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
+<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
+<img width="150px" src="https://i.pinimg.com/originals/4c/57/3a/4c573a1ae2487edf3940864c1dea1580.gif">
+  <img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
+</div>  
+ 
+  
+  
