@@ -34,11 +34,7 @@
   
 </div>
   
-<div align="center">
-<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
-<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
-<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
-<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
+<div align="right">
 <img width="150px" src="https://i.pinimg.com/originals/4c/57/3a/4c573a1ae2487edf3940864c1dea1580.gif">
   <img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
 </div>  
