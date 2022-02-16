@@ -1,6 +1,7 @@
-<div aligh"left">
-<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
+<div aligh="left">
+<img width="140px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
 </div>
+
 <div align="center">
 <h2> Olá eu sou o Johnata 👋</h2>
 
@@ -35,11 +36,7 @@
   
   ![Snake animation](https://github.com/LadsLd/LadsLd/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-  
 <div align="right">
-<img width="150px" src="https://i.pinimg.com/originals/8e/b1/f5/8eb1f5f7bded99d95b525546eeb30ba4.gif"> 
+<img width="140px" src="https://1.bp.blogspot.com/-TRPnG_vrpAY/Vg1Y60wlucI/AAAAAAAACXM/px7ggFw7EXc/s1600/tumblr_nd0y5aZE8J1ssumh5o1_500.gif"> 
 </div>  
- 
-  
-  
+</div>
