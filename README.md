@@ -1,3 +1,6 @@
+<div aligh"left">
+<img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
+</div>
 <div align="center">
 <h2> Olá eu sou o Johnata 👋</h2>
 
@@ -35,8 +38,7 @@
 </div>
   
 <div align="right">
-<img width="150px" src="https://i.pinimg.com/originals/4c/57/3a/4c573a1ae2487edf3940864c1dea1580.gif">
-  <img width="160px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
+<img width="150px" src="https://i.pinimg.com/originals/8e/b1/f5/8eb1f5f7bded99d95b525546eeb30ba4.gif"> 
 </div>  
  
   
