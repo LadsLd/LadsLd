@@ -7,8 +7,8 @@
 
 
 <h4> 🔭 Estudante TÉCNICO EM INFORMÁTICA</h4>
-<h4> 🌱 Estudando Linguagem de Programação Dart, Flutter, Java and JS</h4>
-<h4> 👩‍💻 Estudando Linguagens de marcação Html 5 and Css 3</h4>
+<h4> 🌱 Estudando Linguagens de Programação Dart, Flutter, Java and JS</h4>
+<h4> 👩‍💻 Estudando Linguagens de marcação Html 5, Css 3 and Bootstrap 5</h4>
 </div>
 
 <!-- QUADROS DE USO -->
@@ -26,6 +26,7 @@
   <img align="center" alt="lads-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lads-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lads-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lads-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
   
   ##
