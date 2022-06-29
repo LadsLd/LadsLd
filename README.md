@@ -6,9 +6,9 @@
 <h2> Olá eu sou o Johnata 👋</h2>
 
 
-<h4> 🔭 Estudante TÉCNICO EM INFORMÁTICA</h4>
-<h4> 🌱 Estudando Linguagens de Programação Dart, Flutter, JS</h4>
-<h4> 👩‍💻 Estudando Linguagens de marcação Html 5, Css 3 and Bootstrap 5</h4>
+<h4> 🔭 TÉCNICO EM INFORMÁTICA</h4>
+<h4> 🌱 Dominio em Linguagens de Programação Dart, Flutter, estudando JS</h4>
+<h4> 👩‍💻 Dominio em Linguagens de marcação Html 5, Css 3 and Bootstrap 5</h4>
 </div>
 
 <!-- QUADROS DE USO -->
