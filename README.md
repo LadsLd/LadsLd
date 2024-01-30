@@ -1,9 +1,9 @@
 <div align="left">
 <h2> Olá, sou o Johnata </h2>
 
-<h4> 🔭 TÉCNICO EM INFORMÁTICA </h4>
-<h4> 🌱 Dominio em Linguagens de Programação Dart, Flutter</h4>
-<h4> 👩‍💻 Dominio em Linguagens de marcação Html 5, Css 3 and Bootstrap 5</h4>
+<h4>  TÉCNICO EM INFORMÁTICA </h4>
+<h4>  Dominio em Linguagens de Programação Dart, Flutter</h4>
+<h4>  Dominio em Linguagens de marcação Html 5, Css 3 and Bootstrap 5</h4>
 </div>
 
 <!-- QUADROS DE USO -->
