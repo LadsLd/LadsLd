@@ -1,10 +1,5 @@
-<div aligh="left">
-<img width="140px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
-</div>
-
-<div align="center">
+<div align="left">
 <h2> Olá, sou o Johnata </h2>
-
 
 <h4> 🔭 TÉCNICO EM INFORMÁTICA </h4>
 <h4> 🌱 Dominio em Linguagens de Programação Dart, Flutter</h4>
@@ -12,7 +7,7 @@
 </div>
 
 <!-- QUADROS DE USO -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/LadsLd">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LadsLd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadsLd&layout=compact&theme=dark"/>
@@ -37,6 +32,6 @@
 <div align="center">
   
 <div align="right">
-<img width="140px" src="https://1.bp.blogspot.com/-TRPnG_vrpAY/Vg1Y60wlucI/AAAAAAAACXM/px7ggFw7EXc/s1600/tumblr_nd0y5aZE8J1ssumh5o1_500.gif"> 
+<img width="140px" src="http://2.bp.blogspot.com/-CEE4izL22hE/U3OKgI59fDI/AAAAAAAAGgY/SlLgNXr_JBA/s1600/Morcego+8.gif">
 </div>  
 </div>
