@@ -24,7 +24,7 @@
   
   ##
 <!--  REDES SOCIAIS -->
- <div align ="center">
+ <div align ="left">
  <h3>Redes Sociais Profissionais</h3>
  <a href="https://www.linkedin.com/in/johnata-andrius-272156219/" target="_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = "35px" target="_blank"></a> 
  </div>
